@@ -1,0 +1,5 @@
+__pycache__/**
+/**/__pycache__/**
+.ipynb_checkpoints*
+/data/**
+deep-learning-v2-pytorch/**
